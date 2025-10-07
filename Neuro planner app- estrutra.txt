@@ -1,0 +1,18 @@
+NeuroPlannerApp/
+├── src/
+│   ├── components/
+│   │   ├── CrisisSupport.js
+│   │   ├── AdaptiveSuggestions.js
+│   │   ├── ProductivityAnalytics.js
+│   │   ├── RewardSystem.js
+│   │   ├── WeeklyReport.js
+│   │   ├── EisenhowerMatrix.js
+│   │   └── IvyLeeMethod.js
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── RoutineScreen.js
+│   │   ├── SensoryScreen.js
+│   │   └── SupportScreen.js
+│   └── App.js
+├── package.json
+└── app.json
